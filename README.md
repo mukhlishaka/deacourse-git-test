@@ -1,4 +1,3 @@
-### DEACOURSE STARTER-TEMPLATE-WITH-NEW-AGE-LIB
+### Testing Git di Dea Course
 
-<p>projek ini hanya untuk kebutuhan online course yang diadakan tanggal 29 Mei 2022</p>
-<small><i>thanks a lot - credit to new-age theme</i></small>
+<p>Ini adalah template Project untuk belajar git yang dilaksanakan pada tanggal 29 mei 2022</p>
